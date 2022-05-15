@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+{
+{
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+
+</style>
+</head>
+<body bgcolor="pink">
+<div class="row">
+  <div class="column">
+    <img src="01.jpg" alt="Snow" style="width:50%">
+  </div>
+  <div class="column">
+    <h1> i am shivam</h1>
+	<h2>programer</h2>
+	<br>
+	<p> I am indipendent programer and student of trinity international collage. I can generate websites if you need as ur need.</P>
+  </div>
+</div>
+</body>
+<img src="01" alt="niranjan adhikari" class="rounded-xl h-24 w-24 md:rounded-sm md:h-auto md:w-full object-cover">
+<br>
+<body>
+<div class="row">
+  <div class="column">
+    <img src="01.jpg" alt="Snow" style="width:50%">
+  </div>
+  <div class="column">
+	<p> I am indipendent programer and student of trinity international collage. I can generate websites if you need as ur need.</P>
+  </div>
+</div>
+</html>
+
